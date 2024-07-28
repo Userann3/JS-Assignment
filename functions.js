@@ -19,4 +19,7 @@
 // Problem2:
 // Write a function to filter out the greatest string from a given array `['python', 'javascript', 'arguments', 'java']`.
 
+// let arr=[10,20,30,40,50]
+// let maxnum=Math.max(arr)
+// console.log(maxnum)
 
